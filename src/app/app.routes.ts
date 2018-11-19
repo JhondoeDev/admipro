@@ -6,6 +6,7 @@ import { LoginComponent } from './login/login.component';
 import { RegisterComponent } from './login/register.component';
 
 import { NopagefoundComponent } from './shared/nopagefound/nopagefound.component';
+import { AccountSettingsComponent } from './pages/account-settings/account-settings.component';
 
 const appRoutes: Routes = [
     { path: 'login', component: LoginComponent},
